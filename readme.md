@@ -2,9 +2,9 @@
 ## Task0  
 	git学习和笔记  
 ## Task1  
-	第4章学习  
+	第4章学习  numpy学习
 ## Task2  
-	第5章学习  
+	第5章学习  pandas学习
 ## Task3  
 	第6章学习  
 ## Task4  
